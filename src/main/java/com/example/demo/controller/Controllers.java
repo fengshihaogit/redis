@@ -40,7 +40,6 @@ public class Controllers {
 		return "add";
 	}
 	
-	
 	@RequestMapping("addgoods")
 	public String addgoods(Goods goods) {
 		
